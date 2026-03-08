@@ -60,9 +60,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SohamBorode&show_icons=true&theme=dracula"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SohamBorode&theme=github_dark"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohamBorode&layout=compact&theme=dracula"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SohamBorode&theme=github_dark"/>
 
 <img src="https://streak-stats.demolab.com/?user=SohamBorode&theme=dark"/>
 
@@ -84,3 +84,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient"/>
 
 </div>
+
