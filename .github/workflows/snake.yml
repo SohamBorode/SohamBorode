@@ -9,14 +9,15 @@ permissions:
   contents: write
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
 
     steps:
       - uses: Platane/snk@v3
         with:
           github_user_name: SohamBorode
-          outputs: dist/snake.svg
+          outputs: |
+            dist/snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
