@@ -72,7 +72,10 @@
 
 ## 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/SohamBorode/SohamBorode/output/snake.svg"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SohamBorode/SohamBorode/output/github-snake-dark.svg"/>
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/SohamBorode/SohamBorode/output/github-snake.svg"/>
+</picture>
 
 ---
 
